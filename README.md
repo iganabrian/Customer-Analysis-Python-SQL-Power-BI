@@ -52,6 +52,6 @@ Here:
 
 - The business generated a revenue of 233k from 4k customers whose average age is 44 from a distinct 25 items. 
 
-- Segmentating the store's items sales helped me realise that Clothing gebnerates more revenue in the store followed by footwear. 
+- Segmentating the store's items sales helped me realise that Clothing generates more revenue in the store followed by footwear. 
 
 - Customer segmentation by Age group reveled that Senior members of the society are the biggest buyers of items.
